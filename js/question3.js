@@ -20,7 +20,7 @@ async function getGame(){
     let gamePlatform = [];
     for(let i = 0; i < gameDetails.platforms.length; i++){
       gamePlatform += `<li>${gameDetails.platforms[i].platform.name}</li>`
-    }
+    };
 
     main.innerHTML +=
     `<header
