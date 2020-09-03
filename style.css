@@ -1,0 +1,63 @@
+/* question 1 */
+.error {
+    color: red;
+    display: none;
+}
+form div{
+  margin-top: 10px;
+}
+form input{
+  padding: 8px 12px;
+  width: 23%;
+}
+form button{
+  padding: 8px 20px;
+}
+
+/* question 2 */
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #4D4D4D;
+  margin: 0 auto;
+  width: 900px;
+}
+h1{
+  font-size: 50px;
+}
+h2 {
+  font-size: 18px;
+}
+a{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.gamesInfo{
+  background: rgb(226, 226, 226);
+  margin-bottom: 10px;
+  padding: 12px 24px;
+}
+
+/* question 3 */
+header{
+  color: white;
+  background-size: cover;
+  height: 569px;
+}
+header > h1{
+  padding-top: 510px;
+  padding-left: 24px;
+  text-shadow: 2px 2px black;
+  font-size: 28px;
+}
+.gameInfo{
+  background: rgb(226, 226, 226);
+  margin-bottom: 50px;
+  padding: 24px;
+}
+.gameInfo p {
+  margin-block-start: 0px;
+}
