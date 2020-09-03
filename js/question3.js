@@ -1,4 +1,5 @@
 // question 3
+
 const main = document.querySelector("main");
     
 const queryString = document.location.search;
